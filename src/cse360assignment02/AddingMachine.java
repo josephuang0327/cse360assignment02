@@ -1,5 +1,7 @@
 package cse360assignment02;
 
+// Repository: https://github.com/josephuang0327/cse360assignment02.git
+
 import java.util.Scanner;  // Import the Scanner class
 
 public class AddingMachine 
